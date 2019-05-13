@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: April 15, 2019
 --
 -- This program lets the user enter two integers and it multiplies it using only addtion and loops.
